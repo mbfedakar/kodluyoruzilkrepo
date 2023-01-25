@@ -3,6 +3,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End egitiminde oluşturdugumu
 bir adet README dosyasi, bir adet de index.html barindiriyor.
 ## Installation
 Proje clone u
-'''
+```
 https://github.com/mbfedakar/kodluyoruzilkrepo.git
-'''
+```
