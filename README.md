@@ -7,14 +7,14 @@ Proje clone u
 ```
 https://github.com/mbfedakar/kodluyoruzilkrepo.git
 ```
-### Usage
+# Usage
 Proje cloneladiktan sonra VSC programinda aciniz.
 ```
 cd kodluyoruzilkrepo
 code .
 ```
-#### Contributing
+# Contributing
 Pull requestler kabul edilir.
-##### Licence
+# Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
