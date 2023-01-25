@@ -16,6 +16,5 @@ code .
 #### Contributing
 Pull requestler kabul edilir.
 ##### Licence
-```
-https://choosealicense.com/licenses/mit/
-```
+
+[MIT](https://choosealicense.com/licenses/mit/)
